@@ -1,0 +1,15 @@
+/* Style */
+
+body {
+	color: #222222;
+	font: 18px/1.2em "MyriadPro-Regular", "Myriad Pro Regular", MyriadPro, "Myriad Pro", Helvetica, Arial, sans-serif;
+	margin: 25px;
+	padding: 0px;
+	background: #ffffff;
+}
+a {
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #666666;
+	padding: 0px 2px;
+}
