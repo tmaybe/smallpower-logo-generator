@@ -1,4 +1,6 @@
 smallpower-logo-generator
 =========================
 
-smallpower logo generator(s)
+These are scripts that generate the [smallpower](http://smallpower.org/) logo.
+
+
